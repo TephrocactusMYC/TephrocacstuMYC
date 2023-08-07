@@ -12,3 +12,6 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=TephrocactusMYC&theme=vue)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TephrocactusMYC&theme=vue&utcOffset=8)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TephrocactusMYC&theme=vue)
+
+<!--   profile-green-animate -->
+![](./profile-3d-contrib/profile-green-animate.svg)
